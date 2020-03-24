@@ -14,7 +14,7 @@ For this assignment we will be dividing into groups and creating jupyter noteboo
 1.	One place to start for resources is the online text book we used at the start of the class: https://runestone.academy/runestone/books/published/thinkcspy/index.html. But also some googling might bring you to better resources for whatever item you are working on.
 2.	This is a team assignment so you should just create one notebook for your group
 
-### Data types:
+### Studied data type:
 #### 4. Flopy data types, head and budget files (Ben, Dave & Tesfa)
 -	How do we read in these files?
 -	What type of object do we have when we read it in?
