@@ -22,3 +22,34 @@ For this assignment we will be dividing into groups and creating jupyter noteboo
 -	What are the built in flopy tools for working with these objects?
 -	How do we handle the fact that they have multiple timesteps?
 -	How can we extract data from these files to make plots or write to a file? (thing about both if we want to make a timeseries at a point or if we want to make a graph that is a snapshot of the whole domain at a given time).
+
+##### ***Citation for FloPy:***
+
+[Bakker, M., Post, V., Langevin, C. D., Hughes, J. D., White, J. T., Starn, J. J. and Fienen, M. N., 2016, Scripting MODFLOW Model Development Using Python and FloPy: Groundwater, v. 54, p. 733–739, doi:10.1111/gwat.12413.](http://dx.doi.org/10.1111/gwat.12413)
+
+##### ***Software/Code citation for FloPy:***
+
+[Bakker, M., Post, V., Langevin, C. D., Hughes, J. D., White, J. T., Leaf, A. T., Paulinski, S. R., Larsen, J. D., Toews, M. W., Morway, E. D., Bellino, J. C., Starn, J. J., and Fienen, M. N., 2019, FloPy v3.3.1 &mdash; release candidate: U.S. Geological Survey Software Release, 15 December 2019, http://dx.doi.org/10.5066/F7BK19FH](http://dx.doi.org/10.5066/F7BK19FH)
+
+
+MODFLOW Resources
+-----------------------------------------------
+
++ [MODFLOW and Related Programs](http://water.usgs.gov/ogw/modflow/)
++ [Online guide for MODFLOW-2000](http://water.usgs.gov/nrp/gwsoftware/modflow2000/Guide/index.html)
++ [Online guide for MODFLOW-2005](http://water.usgs.gov/ogw/modflow/MODFLOW-2005-Guide/)
++ [Online guide for MODFLOW-NWT](http://water.usgs.gov/ogw/modflow-nwt/MODFLOW-NWT-Guide/)
+
+
+Disclaimer
+----------
+
+This software is preliminary or provisional and is subject to revision. It is
+being provided to meet the need for timely best science. The software has not
+received final approval by the U.S. Geological Survey (USGS). No warranty,
+expressed or implied, is made by the USGS or the U.S. Government as to the
+functionality of the software and related material nor shall the fact of release
+constitute any such warranty. The software is provided on the condition that
+neither the USGS nor the U.S. Government shall be held liable for any damages
+resulting from the authorized or unauthorized use of the software.
+
