@@ -45,7 +45,7 @@ MODFLOW Resources
 
 
 Disclaimer
-----------
+-----------------------------------------------
 
 This software is preliminary or provisional and is subject to revision. It is
 being provided to meet the need for timely best science. The software has not
