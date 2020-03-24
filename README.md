@@ -14,7 +14,7 @@ For this assignment we will be dividing into groups and creating jupyter noteboo
 1.	One place to start for resources is the online text book we used at the start of the class: https://runestone.academy/runestone/books/published/thinkcspy/index.html. But also some googling might bring you to better resources for whatever item you are working on.
 2.	This is a team assignment so you should just create one notebook for your group
 
-### Data types:
+### Studied data type:
 #### 4. Flopy data types, head and budget files (Ben, Dave & Tesfa)
 -	How do we read in these files?
 -	What type of object do we have when we read it in?
@@ -23,7 +23,7 @@ For this assignment we will be dividing into groups and creating jupyter noteboo
 -	How do we handle the fact that they have multiple timesteps?
 -	How can we extract data from these files to make plots or write to a file? (thing about both if we want to make a timeseries at a point or if we want to make a graph that is a snapshot of the whole domain at a given time).
 
-Works Cited:
+FloPy Works Cited:
 -----------------------------------------------
 
 ##### ***Citation for FloPy:***
@@ -45,7 +45,7 @@ MODFLOW Resources
 
 
 Disclaimer
-----------
+-----------------------------------------------
 
 This software is preliminary or provisional and is subject to revision. It is
 being provided to meet the need for timely best science. The software has not
