@@ -23,7 +23,7 @@ For this assignment we will be dividing into groups and creating jupyter noteboo
 -	How do we handle the fact that they have multiple timesteps?
 -	How can we extract data from these files to make plots or write to a file? (thing about both if we want to make a timeseries at a point or if we want to make a graph that is a snapshot of the whole domain at a given time).
 
-Works Cited:
+FloPy Works Cited:
 -----------------------------------------------
 
 ##### ***Citation for FloPy:***
