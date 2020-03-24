@@ -23,6 +23,9 @@ For this assignment we will be dividing into groups and creating jupyter noteboo
 -	How do we handle the fact that they have multiple timesteps?
 -	How can we extract data from these files to make plots or write to a file? (thing about both if we want to make a timeseries at a point or if we want to make a graph that is a snapshot of the whole domain at a given time).
 
+Works Cited:
+-----------------------------------------------
+
 ##### ***Citation for FloPy:***
 
 [Bakker, M., Post, V., Langevin, C. D., Hughes, J. D., White, J. T., Starn, J. J. and Fienen, M. N., 2016, Scripting MODFLOW Model Development Using Python and FloPy: Groundwater, v. 54, p. 733–739, doi:10.1111/gwat.12413.](http://dx.doi.org/10.1111/gwat.12413)
